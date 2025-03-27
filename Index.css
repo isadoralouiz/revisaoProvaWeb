@@ -1,0 +1,56 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gato{
+    width: 300px;
+}
+
+p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+
+  
+.fireFox{
+    width: 300px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #4184c4;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #cf9f5c;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(17, 16, 16);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
